@@ -1,455 +1,445 @@
 #EXTM3U
-#EXTINF:0,A&E
-http://tvprime.tv:8080/Marlyn/molly1994/948
-#EXTINF:0,AFIZZIONADOS
-http://tvprime.tv:8080/Marlyn/molly1994/30221
-#EXTINF:0,AMC
-http://tvprime.tv:8080/Marlyn/molly1994/946
-#EXTINF:0,ANIMAL PLANET
-http://tvprime.tv:8080/Marlyn/molly1994/1026
-#EXTINF:0,A3 SERIES
-http://tvprime.tv:8080/Marlyn/molly1994/808
+#EXTINF:0,1207 A&E HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/948.m3u8
+#EXTINF:0,AFIZZIONADOS (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/30221.m3u8
+#EXTINF:0,1210 AMC HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/946.m3u8
+#EXTINF:0,1734 ANIMAL PLANET HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1026.m3u8
+#EXTINF:0,1214 A3 SERIES (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/947.m3u8
 #EXTINF:0,A3 SERIES INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/209
-#EXTINF:0,ANTENA 3
-http://tvprime.tv:8080/Marlyn/molly1994/805
-#EXTINF:0,ANTENA 3
-http://tvprime.tv:8080/Marlyn/molly1994/207
-#EXTINF:0,ATV
-http://tvprime.tv:8080/Marlyn/molly1994/1632
-#EXTINF:0,ATV PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/27515
-#EXTINF:0,AXN
-http://tvprime.tv:8080/Marlyn/molly1994/944
-#EXTINF:0,AZ CLICK
-http://tvprime.tv:8080/Marlyn/molly1994/204
-#EXTINF:0,AZ CORAZON
-http://tvprime.tv:8080/Marlyn/molly1994/27556
-#EXTINF:0,AZ MUNDO
-http://tvprime.tv:8080/Marlyn/molly1994/27560
-#EXTINF:0,AZ CINEMA
-http://tvprime.tv:8080/Marlyn/molly1994/205
-#EXTINF:0,AZTECA 7
-http://tvprime.tv:8080/Marlyn/molly1994/21076
-#EXTINF:0,BABY TV
-http://tvprime.tv:8080/Marlyn/molly1994/27595
-#EXTINF:0,BBC WORLD NEWS
-http://tvprime.tv:8080/Marlyn/molly1994/548
-#EXTINF:0,Bein Sports Ñ
-http://tvprime.tv:8080/Marlyn/molly1994/1854
-#EXTINF:0,BeIN sports Xtra
-http://tvprime.tv:8080/Marlyn/molly1994/30195
-#EXTINF:0,BLOOMBERG TV
-http://tvprime.tv:8080/Marlyn/molly1994/27566
-#EXTINF:0,BOOMERANG
-http://tvprime.tv:8080/Marlyn/molly1994/1080
-#EXTINF:0,CABLE NOTICIAS
-http://tvprime.tv:8080/Marlyn/molly1994/1104
-#EXTINF:0,CANAL 13
-http://tvprime.tv:8080/Marlyn/molly1994/23814
-#EXTINF:0,CANAL 13 INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/1739
-#EXTINF:0,720 CANAL 26
-http://tvprime.tv:8080/Marlyn/molly1994/194
+http://tvprime.tv:8080/live/Marlyn/molly1994/209.m3u8
+#EXTINF:0,1762 ANTENA 3 (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/805.m3u8
+#EXTINF:0,ANTENA 3 (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/207.m3u8
+#EXTINF:0,ATV (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/17278.m3u8
+#EXTINF:0,ATV PLUS (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/27515.m3u8
+#EXTINF:0,1209 AXN HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/944.m3u8
+#EXTINF:0,AZ CLICK (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/204.m3u8
+#EXTINF:0,AZ CORAZON (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/27556.m3u8
+#EXTINF:0,AZ MUNDO (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/27560.m3u8
+#EXTINF:0,AZ CINEMA (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/205.m3u8
+#EXTINF:0,AZTECA 7 (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/21076.m3u8
+#EXTINF:0,1317 BABY FIRTS
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:0,768 BBC WORLD NEWS
+http://tvprime.tv:8080/live/Marlyn/molly1994/548.m3u8
+#EXTINF:0,beIN sports Xtra
+http://tvprime.tv:8080/live/Marlyn/molly1994/30195.m3u8
+#EXTINF:0,710 BLOOMBERG TV
+http://tvprime.tv:8080/live/Marlyn/molly1994/27566.m3u8
+#EXTINF:0,334 BOOMERANG
+http://tvprime.tv:8080/live/Marlyn/molly1994/1080.m3u8
+#EXTINF:0,727 CABLE NOTICIAS
+http://tvprime.tv:8080/live/Marlyn/molly1994/1104.m3u8
+#EXTINF:0,CANAL 13 (CL)
+http://tvprime.tv:8080/live/Marlyn/molly1994/23814.m3u8
+#EXTINF:0,CANAL 13 INTERNACIONAL(CL)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1739.m3u8
+#EXTINF:0,720 CANAL 26 (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/194.m3u8
 #EXTINF:0,226 CANAL DE LAS ESTRELLAS
-http://tvprime.tv:8080/Marlyn/molly1994/190
+http://tvprime.tv:8080/live/Marlyn/molly1994/190.m3u8
 #EXTINF:0,189 CANAL UNO
-http://tvprime.tv:8080/Marlyn/molly1994/145
+http://tvprime.tv:8080/live/Marlyn/molly1994/145.m3u8
 #EXTINF:0,CARACOL
-http://tvprime.tv:8080/Marlyn/molly1994/1111
-#EXTINF:0,CARACOL INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/22256
-#EXTINF:0,CARTOON NETWORK
-http://tvprime.tv:8080/Marlyn/molly1994/1079
-#EXTINF:0,CDO PREMIUM
-http://tvprime.tv:8080/Marlyn/molly1994/1840
-#EXTINF:0,CINECANAL
-http://tvprime.tv:8080/Marlyn/molly1994/943
+http://tvprime.tv:8080/live/Marlyn/molly1994/1111.m3u8
+#EXTINF:0,772 CARACOL INT
+http://tvprime.tv:8080/live/Marlyn/molly1994/22256.m3u8
+#EXTINF:0,1304 CARTOON NETWORK HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1079.m3u8
+#EXTINF:0,CDO PREMIUM (CL)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1840.m3u8
+#EXTINF:0,1507 CINECANAL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/943.m3u8
 #EXTINF:0,CINEMAX ACTION
-http://tvprime.tv:8080/Marlyn/molly1994/851
+http://tvprime.tv:8080/live/Marlyn/molly1994/851.m3u8
 #EXTINF:0,CLARO SPORTS
-http://tvprime.tv:8080/Marlyn/molly1994/2353
-#EXTINF:0,CNN Ñ
-http://tvprime.tv:8080/Marlyn/molly1994/550
-#EXTINF:0,CNN CHILE
-http://tvbross.com:8090/Marcos/Marcos123/14526
-#EXTINF:0,CNN INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/555
-#EXTINF:0,CITY TV
-http://tvprime.tv:8080/Marlyn/molly1994/1115
-#EXTINF:0,COMEDY CENTRAL
-http://tvprime.tv:8080/Marlyn/molly1994/799
-#EXTINF:0,COMEDY CENTRAL
-http://tvprime.tv:8080/Marlyn/molly1994/41
-#EXTINF:0,DE PELICULA
-http://tvprime.tv:8080/Marlyn/molly1994/941
+http://tvprime.tv:8080/live/Marlyn/molly1994/2353.m3u8
+#EXTINF:0,704 CNN Ñ
+http://latinchannel.tv:8080/live/gringomc/5tl6b3zf0/197.m3u8
+#EXTINF:0,705 CNN CHILE*
+http://tvbross.com:8090/live/Marcos/Marcos123/14526.m3u8
+#EXTINF:0,706 CNN INTERNACIONAL
+http://tvprime.tv:8080/live/Marlyn/molly1994/555.m3u8
+#EXTINF:0,CITY TV (CO)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1115.m3u8
+#EXTINF:0,1215 COMEDY CENTRAL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/799.m3u8
+#EXTINF:0,COMEDY CENTRAL (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/41.m3u8
+#EXTINF:0,516 DE PELICULA
+http://tvprime.tv:8080/live/Marlyn/molly1994/941.m3u8
 #EXTINF:0,DE PELICULA PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/940
-#EXTINF:0,DIRECTV SPORTS 1
-http://tvprime.tv:8080/Marlyn/molly1994/2357
-#EXTINF:0,DIRECTV SPORTS 1 (COL)
-http://tvbross.com:8090/Marcos/Marcos123/71
-#EXTINF:0,DIRECTV SPORTS 1 (CHI)
-http://tvbross.com:8090/Marcos/Marcos123/70
-#EXTINF:0,DIRECTV SPORTS 1 (AR)
-http://tvbross.com:8090/Marcos/Marcos123/32475
-#EXTINF:0,DIRECTV SPORTS 2
-http://tvprime.tv:8080/Marlyn/molly1994/1787
-#EXTINF:0,DIRECTV SPORTS +
-http://tvprime.tv:8080/Marlyn/molly1994/5188
-#EXTINF:0,DISCOVERY CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/1016
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://tvbross.com:8090/Marcos/Marcos123/370
-#EXTINF:0,DISCOVERY H&H
-http://tvbross.com:8090/Marcos/Marcos123/364
-#EXTINF:0,DISCOVERY KIDS
-http://tvprime.tv:8080/Marlyn/molly1994/1083
-#EXTINF:0,DISCOVERY FAMILIA SD
-http://tvbross.com:8090/Marcos/Marcos123/366
-#EXTINF:0,DISCOVERY FAMILY (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/40118
-#EXTINF:0,DISCOVERY THEATHER
-http://tvprime.tv:8080/Marlyn/molly1994/974
-#EXTINF:0,DISCOVERY SCIENCE
-http://tvprime.tv:8080/Marlyn/molly1994/975
-#EXTINF:0,DISCOVERY TURBO
-http://tvprime.tv:8080/Marlyn/molly1994/1029
-#EXTINF:0,DISCOVERY WORLD
-http://tvprime.tv:8080/Marlyn/molly1994/1019
-#EXTINF:0,DISNEY
-http://tvprime.tv:8080/Marlyn/molly1994/1078
-#EXTINF:0,1315 DISNEY JUNIOR
-http://tvprime.tv:8080/Marlyn/molly1994/29530
-#EXTINF:0,DISNEY XD
-http://tvprime.tv:8080/Marlyn/molly1994/29531
-#EXTINF:0,DISTRITO COMEDIA
-http://tvprime.tv:8080/Marlyn/molly1994/185
-#EXTINF:0,DW
-http://tvprime.tv:8080/Marlyn/molly1994/798
-#EXTINF:0,E! ENTERTAINMENT
-http://tvbross.com:8090/Marcos/Marcos123/351
-#EXTINF:0,ECDF
-http://tvbross.com:8090/Marcos/Marcos123/33029
-#EXTINF:0,El Canal del futbol (HD)
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/40018
-#EXTINF:0,ECUADOR TV
-http://tvprime.tv:8080/Marlyn/molly1994/148
-#EXTINF:0,ECUAVISA
-http://tvprime.tv:8080/Marlyn/molly1994/151
-#EXTINF:0,EL GOURMET
-http://tvprime.tv:8080/Marlyn/molly1994/986
-#EXTINF:0,EL TIEMPO TV
-http://tvprime.tv:8080/Marlyn/molly1994/1117
-#EXTINF:0,EL TRECE
-http://tvprime.tv:8080/Marlyn/molly1994/494
-#EXTINF:0,ENLACE TBN
-http://tvprime.tv:8080/Marlyn/molly1994/17310
-#EXTINF:0,ESPN 1 (SUR)
-http://tvprime.tv:8080/Marlyn/molly1994/1858
-#EXTINF:0,ESPN 1 (CHI)
-http://tvprime.tv:8080/Marlyn/molly1994/22220
-#EXTINF:0,ESPN 1
-http://tvprime.tv:8080/Marlyn/molly1994/1799
-#EXTINF:0,ESPN 2 (SUR)
-http://tvprime.tv:8080/Marlyn/molly1994/1859
-#EXTINF:0,ESPN 2 (CHI)
-http://tvprime.tv:8080/Marlyn/molly1994/22221
-#EXTINF:0,ESPN 2
-http://tvprime.tv:8080/Marlyn/molly1994/1801
-#EXTINF:0,ESPN 3
-http://tvprime.tv:8080/Marlyn/molly1994/1860
-#EXTINF:0,ESPN 3
-http://tvprime.tv:8080/Marlyn/molly1994/1792
-#EXTINF:0,ESPN XTRA
-http://tvprime.tv:8080/Marlyn/molly1994/1790
-#EXTINF:0,EUROPA EUROPA
-http://tvprime.tv:8080/Marlyn/molly1994/959
+http://tvprime.tv:8080/live/Marlyn/molly1994/940.m3u8
+#EXTINF:0,1610 DIRECTV SPORTS 1 (EC)
+http://tvprime.tv:8080/live/Marlyn/molly1994/2357.m3u8
+#EXTINF:0,DIRECTV SPORTS 1 (COL)*
+http://tvbross.com:8090/live/Marcos/Marcos123/71.m3u8
+#EXTINF:0,DIRECTV SPORTS 1 (CHI)*
+http://tvbross.com:8090/live/Marcos/Marcos123/70.m3u8
+#EXTINF:0,DIRECTV SPORTS 1 (AR)*
+http://tvbross.com:8090/live/Marcos/Marcos123/32475.m3u8
+#EXTINF:0,1612 DIRECTV SPORTS 2 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1787.m3u8
+#EXTINF:0,1613 DIRECTV SPORTS + HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/5188.m3u8
+#EXTINF:0,1732 DISCOVERY CHANNEL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1016.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION HD*
+http://tvbross.com:8090/live/Marcos/Marcos123/370.m3u8
+#EXTINF:0,1229 DISCOVERY H&H HD*
+http://tvbross.com:8090//live/Marcos/Marcos123/364.m3u8
+#EXTINF:0,1330 DISCOVERY KIDS HD
+http://tvbross.com:8090/Marcos/Marcos123/125
+#EXTINF:0,DISCOVERY FAMILIA SD*
+http://tvbross.com:8090/live/Marcos/Marcos123/366.m3u8
+#EXTINF:0,DISCOVERY FAMILY HD (USA)
+http://tvprime.tv:8080/live/Marlyn/molly1994/40118.m3u8
+#EXTINF:0,1731 DISCOVERY THEATHER HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/974.m3u8
+#EXTINF:0,1731 DISCOVERY SCIENCE HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/975.m3u8
+#EXTINF:0,736 DISCOVERY TURBO
+http://tvprime.tv:8080/live/Marlyn/molly1994/1029.m3u8
+#EXTINF:0,1738 DISCOVERY WORLD HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1019.m3u8
+#EXTINF:0,1312 DISNEY HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1078.m3u8
+#EXTINF:0,1315 DISNEY JUNIOR HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/29530.m3u8
+#EXTINF:0,1316 DISNEY XD HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1049.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/185.m3u8
+#EXTINF:0,770 DW
+http://tvprime.tv:8080/live/Marlyn/molly1994/798.m3u8
+#EXTINF:0,1222 E! ENTERTAINMENT HD*
+http://tvbross.com:8090/live/Marcos/Marcos123/351.m3u8
+#EXTINF:0,655 ECDF HD*
+http://tvbross.com:8090/live/Marcos/Marcos123/33029.m3u8
+#EXTINF:0,187 ECUADOR TV HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/148.m3u8
+#EXTINF:0,1182 ECUAVISA HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/151.m3u8
+#EXTINF:0,1232 EL GOURMET
+http://tvprime.tv:8080/live/Marlyn/molly1994/986.m3u8
+#EXTINF:0,773 EL TIEMPO TV (CO)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1117.m3u8
+#EXTINF:0,784 EL TRECE (AR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/494.m3u8
+#EXTINF:0,352 ENLACE TBN
+http://tvprime.tv:8080/live/Marlyn/molly1994/17310.m3u8
+#EXTINF:0,1623 ESPN 1 HD (SUR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1858.m3u8
+#EXTINF:0,ESPN 1 HD (CHI)
+http://tvprime.tv:8080/live/Marlyn/molly1994/22220.m3u8
+#EXTINF:0,ESPN 1 HD (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1799.m3u8
+#EXTINF:0,1622 ESPN 2 HD (SUR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1859.m3u8
+#EXTINF:0,1622 ESPN 2 HD (CHI)
+http://tvprime.tv:8080/live/Marlyn/molly1994/22221.m3u8
+#EXTINF:0,ESPN 2 HD (MX)
+http://tvbross.com:8090/Marcos/Marcos123/1075
+#EXTINF:0,1624 ESPN 3 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1860.m3u8
+#EXTINF:0,ESPN 3 HD (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1792.m3u8
+#EXTINF:0,ESPN XTRA HD (MX)
+http://tvbross.com:8090/Marcos/Marcos123/82
+#EXTINF:0,1515 EUROPA EUROPA
+http://tvprime.tv:8080/live/Marlyn/molly1994/959.m3u8
 #EXTINF:0,EUROSPORTS 1
-http://tvprime.tv:8080/Marlyn/molly1994/2362
-#EXTINF:0,EWTN
-http://tvprime.tv:8080/Marlyn/molly1994/17312
-#EXTINF:0,FILM & ARTS
-http://tvprime.tv:8080/Marlyn/molly1994/795
-#EXTINF:0,FOOD NETWORK
-http://tvprime.tv:8080/Marlyn/molly1994/969
-#EXTINF:0,FOX SPORTS 1 (AR)
-http://tvprime.tv:8080/Marlyn/molly1994/30424
-#EXTINF:0,FOX SPORTS 1
-http://tvprime.tv:8080/Marlyn/molly1994/40692
-#EXTINF:0,FOX SPORTS 1
-http://tvprime.tv:8080/Marlyn/molly1994/1766
-#EXTINF:0,FOX SPORTS 1 (BR)
-http://tvprime.tv:8080/Marlyn/molly1994/2336
-#EXTINF:0,FOX SPORTS 2
-http://tvprime.tv:8080/Marlyn/molly1994/1778
-#EXTINF:0,FOX SPORTS 2
-http://tvprime.tv:8080/Marlyn/molly1994/40690
-#EXTINF:0,FOX SPORTS 2
-http://tvprime.tv:8080/Marlyn/molly1994/1774
-#EXTINF:0,FOX SPORTS 3 (AR)
-http://tvprime.tv:8080/Marlyn/molly1994/1781
-#EXTINF:0,FOX SPORTS 3
-http://tvprime.tv:8080/Marlyn/molly1994/40694
-#EXTINF:0,FOX SPORTS 3
-http://tvprime.tv:8080/Marlyn/molly1994/1767
+http://tvprime.tv:8080/live/Marlyn/molly1994/2362.m3u8
+#EXTINF:0,350 EWTN
+http://tvprime.tv:8080/live/Marlyn/molly1994/17312.m3u8
+#EXTINF:0,746 FILM & ARTS
+http://tvprime.tv:8080/live/Marlyn/molly1994/795.m3u8
+#EXTINF:0,1233 FOOD NETWORK HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/969.m3u8
+#EXTINF:0,1604 FOX SPORTS 1 HD (AR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/30424.m3u8
+#EXTINF:0,FOX SPORTS 1 HD (CO)
+http://tvbross.com:8090/live/Marcos/Marcos123/2351.m3u8
+#EXTINF:0,FOX SPORTS 1 HD (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1766.m3u8
+#EXTINF:0,FOX SPORTS 1 HD (BR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/2336.m3u8
+#EXTINF:0,1608 FOX SPORTS 2 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1778.m3u8
+#EXTINF:0,FOX SPORTS 2 HD (CO)
+http://tvbross.com:8090/live/Marcos/Marcos123/84.m3u8
+#EXTINF:0,FOX SPORTS 2 HD (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1774.m3u8
+#EXTINF:0,1609 FOX SPORTS 3 HD (AR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1781.m3u8
+#EXTINF:0,FOX SPORTS 3 HD (CO)
+http://tvbross.com:8090/live/Marcos/Marcos123/18233.m3u8
+#EXTINF:0,FOX SPORTS 3 HD (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1767.m3u8
 #EXTINF:0,FOX SPORTS PREMIUM
-http://tvprime.tv:8080/Marlyn/molly1994/1780
+http://tvprime.tv:8080/live/Marlyn/molly1994/1780.m3u8
 #EXTINF:0,FOX DEPORTES
-http://tvprime.tv:8080/Marlyn/molly1994/2380
-#EXTINF:0,FX
-http://tvprime.tv:8080/Marlyn/molly1994/29539
-#EXTINF:0,FX MOVIES
-http://tvprime.tv:8080/Marlyn/molly1994/29532
+http://tvprime.tv:8080/live/Marlyn/molly1994/2380.m3u8
+#EXTINF:0,1217 FX HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/29539.m3u8
+#EXTINF:0,1505 FX MOVIES HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/29532.m3u8
 #EXTINF:0,GALAVISION (NY)
-http://tvprime.tv:8080/Marlyn/molly1994/5819
+http://tvprime.tv:8080/live/Marlyn/molly1994/5819.m3u8
 #EXTINF:0,GALAVISION (EAST)
-http://tvprime.tv:8080/Marlyn/molly1994/5813
-#EXTINF:0,GAMATV
-http://tvprime.tv:8080/Marlyn/molly1994/153
-#EXTINF:0,GLITZ
-http://tvprime.tv:8080/Marlyn/molly1994/528
-#EXTINF:0,GOLDEN
-http://tvbross.com:8090/Marcos/Marcos123/437
-#EXTINF:0,GOLDEN EDGE
-http://tvbross.com:8090/Marcos/Marcos123/434
-#EXTINF:0,GOLDEN PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/780
-#EXTINF:0,GOLDEN PREMIER
-http://tvprime.tv:8080/Marlyn/molly1994/2386
-#EXTINF:0,GOLF CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/1831
-#EXTINF:0,GOLTV
-http://tvprime.tv:8080/Marlyn/molly1994/1834
+http://tvprime.tv:8080/live/Marlyn/molly1994/5813.m3u8
+#EXTINF:0,183 GAMATV
+http://tvprime.tv:8080/live/Marlyn/molly1994/153.m3u8
+#EXTINF:0,224 GLITZ
+http://tvprime.tv:8080/live/Marlyn/molly1994/528.m3u8
+#EXTINF:0,1503 GOLDEN HD*
+http://tvbross.com:8090/live//Marcos/Marcos123/437.m3u8
+#EXTINF:0,517 GOLDEN EDGE HD*
+http://tvbross.com:8090/live/Marcos/Marcos123/434.m3u8
+#EXTINF:0,GOLDEN PLUS HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/780.m3u8
+#EXTINF:0,GOLDEN PREMIER HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/2386.m3u8
+#EXTINF:0,628 GOLF CHANNEL
+http://tvprime.tv:8080/live/Marlyn/molly1994/1831.m3u8
+#EXTINF:0,1658 GOLTV HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1834.m3u8
 #EXTINF:0,GOLTV LATINOAMERICA
-http://tvprime.tv:8080/Marlyn/molly1994/2358
+http://tvbross.com:8090/live/Marcos/Marcos123/97.m3u8 
 #EXTINF:0,GOLTV PERU
-http://tvprime.tv:8080/Marlyn/molly1994/1837
+http://tvprime.tv:8080/live/Marlyn/molly1994/1837.m3u8
 #EXTINF:0,GOLTV ES
-http://tvprime.tv:8080/Marlyn/molly1994/16451
-#EXTINF:0,H2
-http://tvprime.tv:8080/Marlyn/molly1994/985
-#EXTINF:0,HBO
-http://tvprime.tv:8080/Marlyn/molly1994/2388
-#EXTINF:0,HBO 2
-http://tvprime.tv:8080/Marlyn/molly1994/2391
-#EXTINF:0,HBO FAMILY
-http://tvprime.tv:8080/Marlyn/molly1994/2395
-#EXTINF:0,HBO PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/2392
-#EXTINF:0,HBO MUNDI
-http://tvprime.tv:8080/Marlyn/molly1994/27529
-#EXTINF:0,HBO SIGNATURE
-http://tvprime.tv:8080/Marlyn/molly1994/813
-#EXTINF:0,HBO XTREME
-http://tvprime.tv:8080/Marlyn/molly1994/955
+http://tvprime.tv:8080/live/Marlyn/molly1994/16451.m3u8
+#EXTINF:0,1744 H2 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/985.m3u8
+#EXTINF:0,1524 HBO HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/2388.m3u8
+#EXTINF:0,1525 HBO 2 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/2391.m3u8
+#EXTINF:0,1534 HBO FAMILY
+http://tvprime.tv:8080/live/Marlyn/molly1994/2395.m3u8
+#EXTINF:0,1532 HBO PLUS HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/2392.m3u8
+#EXTINF:0,540 HBO MUNDI
+http://tvprime.tv:8080/live/Marlyn/molly1994/27529.m3u8
+#EXTINF:0,1528 HBO SIGNATURE HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/813.m3u8
+#EXTINF:0,1542 HBO XTREME HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/955.m3u8
 #EXTINF:0,HBO POP
-http://tvprime.tv:8080/Marlyn/molly1994/815
-#EXTINF:0,HGTV
-http://tvprime.tv:8080/Marlyn/molly1994/40084
-#EXTINF:0,HISTORY
-http://tvprime.tv:8080/Marlyn/molly1994/984
-#EXTINF:0,HOLA TV
-http://tvprime.tv:8080/Marlyn/molly1994/177
-#EXTINF:0,HTV
-http://tvprime.tv:8080/Marlyn/molly1994/255
-#EXTINF:0,INDIEPLEX
-http://tvprime.tv:8080/Marlyn/molly1994/843
-#EXTINF:0,ISAT
-http://tvprime.tv:8080/Marlyn/molly1994/777
-#EXTINF:0,INVESTIGATION DISCOVERY
-http://tvprime.tv:8080/Marlyn/molly1994/966
-#EXTINF:0,LA RED
-http://tvbross.com:8090/Marcos/Marcos123/32
-#EXTINF:0,LATINA
-http://tvprime.tv:8080/Marlyn/molly1994/1137
-#EXTINF:0,LIFETIME
-http://tvbross.com:8090/Marcos/Marcos123/342
-#EXTINF:0,MEGA
-http://tvprime.tv:8080/Marlyn/molly1994/1753
-#EXTINF:0,MTV
-http://tvprime.tv:8080/Marlyn/molly1994/236
-#EXTINF:0,MTV
-http://tvprime.tv:8080/Marlyn/molly1994/72
+http://tvprime.tv:8080/live/Marlyn/molly1994/815.m3u8
+#EXTINF:0,1234 HGTV*
+http://tvprime.tv:8080/live/Marlyn/molly1994/40084.m3u8
+#EXTINF:0,1742 HISTORY HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/984.m3u8
+#EXTINF:0,1221 HOLA TV HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/177.m3u8
+#EXTINF:0,272 HTV
+http://tvprime.tv:8080/live/Marlyn/molly1994/255.m3u8
+#EXTINF:0,INDIEPLEX HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/843.m3u8
+#EXTINF:0,520 ISAT
+http://tvprime.tv:8080/live/Marlyn/molly1994/777.m3u8
+#EXTINF:0,1223 INVESTIGATION DISCOVERY HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/966.m3u8
+#EXTINF:0,LA RED HD (CL)
+http://tvbross.com:8090/live/Marcos/Marcos123/32.m3u8
+#EXTINF:0,LATINA HD (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1137.m3u8
+#EXTINF:0,1228 LIFETIME*
+http://tvbross.com:8090/live/Marcos/Marcos123/342.m3u8
+#EXTINF:0,MEGA (HD)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1753.m3u8
+#EXTINF:0,1264 MTV HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/236.m3u8
+#EXTINF:0,MTV (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/72.m3u8
 #EXTINF:0,MTV HITS
-http://tvprime.tv:8080/Marlyn/molly1994/235
-#EXTINF:0,MTV LIVE
-http://tvprime.tv:8080/Marlyn/molly1994/234
-#EXTINF:0,MLB | San Francisco Giants
-http://tvprime.tv:8080/Marlyn/molly1994/333
-#EXTINF:0,MOVIEPLEX
-http://tvprime.tv:8080/Marlyn/molly1994/840
-#EXTINF:0,MOVISTAR DEPORTES
-http://tvprime.tv:8080/Marlyn/molly1994/1829
-#EXTINF:0,MOVISTAR PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/40009
-#EXTINF:0,MOVISTAR LA LIGA
-http://tvprime.tv:8080/Marlyn/molly1994/29080
-#EXTINF:0,MOVISTAR LIGA DE CAMPEONES
-http://tvprime.tv:8080/Marlyn/molly1994/2000
-#EXTINF:0,MOVISTAR LA LIGA TV BAR
-http://tvprime.tv:8080/Marlyn/molly1994/1830
-#EXTINF:0,NAT GEO
-http://tvprime.tv:8080/Marlyn/molly1994/982
-#EXTINF:0,NAT GEO WILD
-http://tvprime.tv:8080/Marlyn/molly1994/1038
-#EXTINF:0,NAT GEO KIDS
-http://tvprime.tv:8080/Marlyn/molly1994/1075
-#EXTINF:0,NBA League Pass - ESPN
-http://tvprime.tv:8080/Marlyn/molly1994/336
-#EXTINF:0,NBA TV
-http://tvprime.tv:8080/Marlyn/molly1994/339
-#EXTINF:0,NFL NETWORK
-http://tvprime.tv:8080/Marlyn/molly1994/340
+http://tvprime.tv:8080/live/Marlyn/molly1994/235.m3u8
+#EXTINF:0,MTV LIVE HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/234.m3u8
+#EXTINF:0,MOVIEPLEX HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/840.m3u8
+#EXTINF:0,MOVISTAR DEPORTES (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1829.m3u8
+#EXTINF:0,MOVISTAR PLUS (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/40009.m3u8
+#EXTINF:0,MOVISTAR LA LIGA (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/29080.m3u8
+#EXTINF:0,MOVISTAR LIGA DE CAMPEONES (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/2000.m3u8
+#EXTINF:0,MOVISTAR LA LIGA TV BAR (ES)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1830.m3u8
+#EXTINF:0,1730 NAT GEO HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/982.m3u8
+#EXTINF:0,1735 NAT GEO WILD HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1038.m3u8
+#EXTINF:0,318 NAT GEO KIDS HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1075.m3u8
+#EXTINF:0,675 NBA League Pass - ESPN
+http://tvprime.tv:8080/live/Marlyn/molly1994/336.m3u8
+#EXTINF:0,1677 NBA TV HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/339.m3u8
+#EXTINF:0,687 NFL NETWORK
+http://tvprime.tv:8080/live/Marlyn/molly1994/340.m3u8
 #EXTINF:0,NFL REDZONE
-http://tvprime.tv:8080/Marlyn/molly1994/34
-#EXTINF:0,NICK
-http://tvprime.tv:8080/Marlyn/molly1994/29570
+http://tvprime.tv:8080/live/Marlyn/molly1994/34.m3u8
+#EXTINF:0,1308 NICK HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/29570.m3u8
 #EXTINF:0,NICK 2
-http://tvprime.tv:8080/Marlyn/molly1994/1047
-#EXTINF:0,NICK JUNIOR
-http://tvprime.tv:8080/Marlyn/molly1994/1073
-#EXTINF:0,NTN24
-http://tvprime.tv:8080/Marlyn/molly1994/174
-#EXTINF:0,OROMARTV
-http://tvprime.tv:8080/Marlyn/molly1994/154
-#EXTINF:0,PANAMERICANA
-http://tvprime.tv:8080/Marlyn/molly1994/1140
-#EXTINF:0,PARAMOUNT
-http://tvprime.tv:8080/Marlyn/molly1994/925
-#EXTINF:0,PASIONES
-http://tvprime.tv:8080/Marlyn/molly1994/402
-#EXTINF:0,RAI ITALIA
-http://tvprime.tv:8080/Marlyn/molly1994/1983
-#EXTINF:0,REDBULL TV
-http://tvprime.tv:8080/Marlyn/molly1994/27496
-#EXTINF:0,RCN
-http://tvprime.tv:8080/Marlyn/molly1994/1121
-#EXTINF:0,RCN 2
-http://tvprime.tv:8080/Marlyn/molly1994/1123
+http://tvprime.tv:8080/live/Marlyn/molly1994/1047.m3u8
+#EXTINF:0,309 NICK JUNIOR
+http://tvprime.tv:8080/live/Marlyn/molly1994/1073.m3u8
+#EXTINF:0,724 NTN24
+http://tvprime.tv:8080/live/Marlyn/molly1994/174.m3u8
+#EXTINF:0,190 OROMARTV
+http://tvprime.tv:8080/live/Marlyn/molly1994/154.m3u8
+#EXTINF:0,PANAMERICANA (PE)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1140.m3u8
+#EXTINF:0,1510 PARAMOUNT HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/925.m3u8
+#EXTINF:0,1225 PASIONES HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/402.m3u8
+#EXTINF:0,766 RAI ITALIA
+http://tvprime.tv:8080/live/Marlyn/molly1994/1983.m3u8
+#EXTINF:0,775 RCN 1 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1121.m3u8
+#EXTINF:0,RCN 2 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/1123.m3u8
 #EXTINF:0,RCN Internacional
-http://tvprime.tv:8080/Marlyn/molly1994/40087
+http://tvprime.tv:8080/live/Marlyn/molly1994/40087.m3u8
 #EXTINF:0,RCN NOVELAS
-http://tvprime.tv:8080/Marlyn/molly1994/24478
-#EXTINF:0,RTS
-http://tvprime.tv:8080/Marlyn/molly1994/155
-#EXTINF:0,RTU
-http://tvprime.tv:8080/Marlyn/molly1994/17293
+http://tvprime.tv:8080/live/Marlyn/molly1994/24478.m3u8
+#EXTINF:0,185 RTS
+http://tvprime.tv:8080/live/Marlyn/molly1994/155.m3u8
+#EXTINF:0,177 RTU
+http://tvprime.tv:8080/live/Marlyn/molly1994/17293.m3u8
 #EXTINF:0,SEÑAL COLOMBIA
-http://tvprime.tv:8080/Marlyn/molly1994/1124
-#EXTINF:0,SONY
-http://tvprime.tv:8080/Marlyn/molly1994/923
-#EXTINF:0,SPACE
-http://tvprime.tv:8080/Marlyn/molly1994/922
-#EXTINF:0,STAR CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/938
-#EXTINF:0,STAR CINEMA
-http://tvprime.tv:8080/Marlyn/molly1994/936
-#EXTINF:0,STAR CLASSIC
-http://tvprime.tv:8080/Marlyn/molly1994/935
-#EXTINF:0,STAR COMEDY
-http://tvprime.tv:8080/Marlyn/molly1994/904
-#EXTINF:0,STAR ACTION
-http://tvprime.tv:8080/Marlyn/molly1994/784
-#EXTINF:0,STAR LIFE
-http://tvprime.tv:8080/Marlyn/molly1994/956
-#EXTINF:0,STAR SERIES
-http://tvprime.tv:8080/Marlyn/molly1994/932
+http://tvprime.tv:8080/live/Marlyn/molly1994/1124.m3u8
+#EXTINF:0,1208 SONY HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/923.m3u8
+#EXTINF:0,1518 SPACE HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/922.m3u8
+#EXTINF:0,1204 STAR CHANNEL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/938.m3u8
+#EXTINF:0,1562 STAR CINEMA HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/936.m3u8
+#EXTINF:0,560 STAR CLASSIC
+http://tvprime.tv:8080/live/Marlyn/molly1994/935.m3u8
+#EXTINF:0,1557 STAR COMEDY HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/904.m3u8
+#EXTINF:0,1561 STAR ACTION HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/784.m3u8
+#EXTINF:0,1212 STAR LIFE HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/956.m3u8
+#EXTINF:0,1552 STAR SERIES
+http://tvprime.tv:8080/live/Marlyn/molly1994/932.m3u8
 #EXTINF:0,STAR FUN
-http://tvprime.tv:8080/Marlyn/molly1994/906
+http://tvprime.tv:8080/live/Marlyn/molly1994/906.m3u8
 #EXTINF:0,STAR HITS
-http://tvprime.tv:8080/Marlyn/molly1994/933
+http://tvprime.tv:8080/live/Marlyn/molly1994/933.m3u8
 #EXTINF:0,STARZ ((USA)
-http://tvprime.tv:8080/Marlyn/molly1994/820
+http://tvprime.tv:8080/live/Marlyn/molly1994/820.m3u8
 #EXTINF:0,STARZ EDGE (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/829
+http://tvprime.tv:8080/live/Marlyn/molly1994/829.m3u8
 #EXTINF:0,STARZ EAST (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/830
+http://tvprime.tv:8080/live/Marlyn/molly1994/830.m3u8
 #EXTINF:0,STARZ WEST (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/818
+http://tvprime.tv:8080/live/Marlyn/molly1994/818.m3u8
 #EXTINF:0,STARZ CINEMA (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/832
+http://tvprime.tv:8080/live/Marlyn/molly1994/832.m3u8
 #EXTINF:0,STARZ COMEDY (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/831
+http://tvprime.tv:8080/live/Marlyn/molly1994/831.m3u8
 #EXTINF:0,STARZ KIDS & FAMILY (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/819
+http://tvprime.tv:8080/live/Marlyn/molly1994/819.m3u8
 #EXTINF:0,STARZ ENCORE SUSPENSO (USA)
-http://tvprime.tv:8080/Marlyn/molly1994/823
-#EXTINF:0,STUDIO UNIVERSAL
-http://tvprime.tv:8080/Marlyn/molly1994/921
-#EXTINF:0,SYFY
-http://tvbross.com:8090/Marcos/Marcos123/413
-#EXTINF:0,TBS
-http://tvprime.tv:8080/Marlyn/molly1994/857
+http://tvprime.tv:8080/live/Marlyn/molly1994/823.m3u8
+#EXTINF:0,1508 STUDIO UNIVERSAL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/921.m3u8
+#EXTINF:0,1219 SYFY HD*
+http://tvbross.com:8090/live/Marcos/Marcos123/414.m3u8
+#EXTINF:0,216 TBS
+http://tvprime.tv:8080/live/Marlyn/molly1994/857.m3u8
 #EXTINF:0,TIGO SPORTS
-http://tvprime.tv:8080/Marlyn/molly1994/1820
-#EXTINF:0,TC
-http://tvprime.tv:8080/Marlyn/molly1994/157
-#EXTINF:0,TCM
-http://tvbross.com:8090/Marcos/Marcos123/403
-#EXTINF:0,TELEAMAZONAS
-http://tvprime.tv:8080/Marlyn/molly1994/159
+http://tvprime.tv:8080/live/Marlyn/molly1994/1820.m3u8
+#EXTINF:0,1181 TC HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/157.m3u8
+#EXTINF:0,504 TCM*
+http://tvbross.com:8090/live/Marcos/Marcos123/403.m3u8
+#EXTINF:0,1180 TELEAMAZONAS
+http://tvprime.tv:8080/live/Marlyn/molly1994/159.m3u8
 #EXTINF:0,TELEANTILLAS
-http://tvprime.tv:8080/Marlyn/molly1994/28941
-#EXTINF:0,TELEFE
-http://tvprime.tv:8080/Marlyn/molly1994/486
-#EXTINF:0,TELEMUNDO INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/28949
-#EXTINF:0,TELEMUNDO
-http://tvprime.tv:8080/Marlyn/molly1994/5197
+http://tvprime.tv:8080/live/Marlyn/molly1994/28941.m3u8
+#EXTINF:0,786 TELEFE
+http://tvprime.tv:8080/live/Marlyn/molly1994/486.m3u8
+#EXTINF:0,231 TELEMUNDO INT
+http://tvprime.tv:8080/live/Marlyn/molly1994/28949.m3u8
+#EXTINF:0,TELEMUNDO (PR)
+http://tvprime.tv:8080/live/Marlyn/molly1994/5197.m3u8
 #EXTINF:0,TELENOVELAS
-http://tvprime.tv:8080/Marlyn/molly1994/170
-#EXTINF:0,TELEVICENTRO
-http://tvprime.tv:8080/Marlyn/molly1994/161
-#EXTINF:0,TELESUR
-http://tvprime.tv:8080/Marlyn/molly1994/5403
-#EXTINF:0,THE GOLF CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/1831
-#EXTINF:0,TYC SPORTS
-http://tvprime.tv:8080/Marlyn/molly1994/1811
+http://tvprime.tv:8080/live/Marlyn/molly1994/170.m3u8
+#EXTINF:0,192 TELEVICENTRO
+http://tvprime.tv:8080/live/Marlyn/molly1994/161.m3u8
+#EXTINF:0,TELESUR HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/5403.m3u8
+#EXTINF:0,628 THE GOLF CHANNEL
+http://tvprime.tv:8080/live/Marlyn/molly1994/1831.m3u8
+#EXTINF:0,629 TYC SPORTS
+http://tvprime.tv:8080/live/Marlyn/molly1994/1811.m3u8
 #EXTINF:0,TYC INTERNACIONAL
-http://tvprime.tv:8080/Marlyn/molly1994/1810
-#EXTINF:0,TNT
-http://tvprime.tv:8080/Marlyn/molly1994/885
-#EXTINF:0,TNT SERIES
-http://tvprime.tv:8080/Marlyn/molly1994/854
+http://tvprime.tv:8080/live/Marlyn/molly1994/1810.m3u8
+#EXTINF:0,1502 TNT HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/885.m3u8
+#EXTINF:0,1213 TNT SERIES HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/854.m3u8
 #EXTINF:0,TNT SPORTS
-http://tvprime.tv:8080/Marlyn/molly1994/1844
+http://tvprime.tv:8080/live/Marlyn/molly1994/1844.m3u8
 #EXTINF:0,TNT SPORTS 2
-http://tvprime.tv:8080/Marlyn/molly1994/1842
+http://tvprime.tv:8080/live/Marlyn/molly1994/1842.m3u8
 #EXTINF:0,TNT SPORTS 3
-http://tvprime.tv:8080/Marlyn/molly1994/1841
-#EXTINF:0,TRU TV
-http://tvprime.tv:8080/Marlyn/molly1994/980
-#EXTINF:0,TV CHILE
-http://tvprime.tv:8080/Marlyn/molly1994/29053
-#EXTINF:0,TVE LA 1
-http://tvprime.tv:8080/Marlyn/molly1994/82
-#EXTINF:0,TVN
-http://tvprime.tv:8080/Marlyn/molly1994/1758
-#EXTINF:0,TVN 24 HORAS
-http://tvprime.tv:8080/Marlyn/molly1994/5337
-#EXTINF:0,UNICABLE
-http://tvprime.tv:8080/Marlyn/molly1994/162
-#EXTINF:0,UNIVERSAL CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/883
+http://tvprime.tv:8080/live/Marlyn/molly1994/1841.m3u8
+#EXTINF:0,220 TRU TV
+http://tvprime.tv:8080/live/Marlyn/molly1994/980.m3u8
+#EXTINF:0,774 TV CHILE
+http://tvprime.tv:8080/live/Marlyn/molly1994/29053.m3u8
+#EXTINF:0,760 TVE LA 1 HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/82.m3u8
+#EXTINF:0,TVN (CL)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1758.m3u8
+#EXTINF:0,UNICABLE (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/162.m3u8
+#EXTINF:0,1218 UNIVERSAL CHANNEL HD
+http://tvprime.tv:8080/live/Marlyn/molly1994/883.m3u8
 #EXTINF:0,UNIVISION (PR)
-http://tvprime.tv:8080/Marlyn/molly1994/5580
+http://tvprime.tv:8080/live/Marlyn/molly1994/5580.m3u8
 #EXTINF:0,UNIVISION NOVELAS
-http://tvprime.tv:8080/Marlyn/molly1994/370
+http://tvprime.tv:8080/live/Marlyn/molly1994/370.m3u8
 #EXTINF:0,UNIVISION TUDN (US)
-http://tvprime.tv:8080/Marlyn/molly1994/1809
-#EXTINF:0,UNIVISION TUDN
-http://tvprime.tv:8080/Marlyn/molly1994/22258
-#EXTINF:0,VTV
-http://tvprime.tv:8080/Marlyn/molly1994/1806
+http://tvprime.tv:8080/live/Marlyn/molly1994/1809.m3u8
+#EXTINF:0,UNIVISION TUDN (MX)
+http://tvprime.tv:8080/live/Marlyn/molly1994/22258.m3u8
+#EXTINF:0,788 VTV
+http://tvprime.tv:8080/live/Marlyn/molly1994/1806.m3u8
 #EXTINF:0,VTV +
-http://tvprime.tv:8080/Marlyn/molly1994/16453
-#EXTINF:0,WARNER CHANNEL
-http://tvprime.tv:8080/Marlyn/molly1994/949
-#EXTINF:0,WIN SPORTS
-http://tvprime.tv:8080/Marlyn/molly1994/1804
-#EXTINF:0,WIN SPORTS PLUS
-http://tvprime.tv:8080/Marlyn/molly1994/21862
+http://tvprime.tv:8080/live/Marlyn/molly1994/16453.m3u8
+#EXTINF:0,1206 WARNER CHANNEL
+http://tvprime.tv:8080/live/Marlyn/molly1994/949.m3u8
+#EXTINF:0,WIN SPORTS (CO)
+http://tvprime.tv:8080/live/Marlyn/molly1994/1804.m3u8
+#EXTINF:0,WIN SPORTS PLUS (CO)
+http://tvprime.tv:8080/live/Marlyn/molly1994/21862.m3u8
 #EXTINF:0,UNIVERSO LATINO
-http://tvprime.tv:8080/Marlyn/molly1994/2198
+http://tvprime.tv:8080/live/Marlyn/molly1994/2198.m3u8
