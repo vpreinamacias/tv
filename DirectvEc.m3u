@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="" tvg-name="ECUAVISA GYE" group-title="ECUADOR",EC: ECUAVISA GYE (ʜᴅ)
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA GYE" group-title="ECUADOR",EC: ECUAVISA GYE (ʜᴅ)
 http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/37080.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="ECUAVISA UIO" group-title="ECUADOR",EC: ECUAVISA UIO (ʜᴅ)
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA UIO" group-title="ECUADOR",EC: ECUAVISA UIO (ʜᴅ)
 http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/37084.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" group-title="ECUADOR",EC: ECUAVISA INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" group-title="ECUADOR",EC: ECUAVISA INTERNACIONAL
 http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/37077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD (EXCLUSIVO)" tvg-logo="https://i.ibb.co/L828h12/AMERICATV.jpg" group-title="PERÚ",America TV HD (EXCLUSVIVO)
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/32646
@@ -273,11 +273,11 @@ http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/40261
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/37948
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (exclusivo)" tvg-logo="https://i.ibb.co/4RVTM1R/DIRECTV2.jpg" group-title="DEPORTES",Directv Sports 2 HD (exclusivo)
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/37947
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | 2MB"" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | 2MB
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | 2MB" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | 2MB
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/40886
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | HD"" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | HD
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | HD" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | HD
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/40885
-#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | FHD"" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | FHD
+#EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 CHILE | FHD" group-title="DEPORTES",DEP| FOX SPORTS 1 CHILE | FHD
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/40884
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports SD - CL ©" tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES",Directv Sports SD - CL ©
 http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/37821
